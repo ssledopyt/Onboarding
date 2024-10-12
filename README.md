@@ -2,7 +2,8 @@
 
 Ссылки на стороннее приложение убраны.
 
-https://github.com/user-attachments/assets/b4165895-3375-45a1-adb2-64ae6fe58332
+![Onboarding_test](https://github.com/user-attachments/assets/c4138c76-ac78-47ca-be44-4e02c1805419)
+
 
 ## 🛠 Технологии применяемые в разработке:
 - Jetpack Compose
